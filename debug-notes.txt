@@ -1,0 +1,7 @@
+
+notes
+
+I have put HSE_VALUE = 25000000 in the target.mk 
+and it worked fine without the need of any adjustment.
+
+fixes isssue with usb clock ... 
